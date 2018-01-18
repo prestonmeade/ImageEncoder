@@ -1,0 +1,36 @@
+Preston Meade
+February 4th, 2016
+Image Encoder/ Decoder
+
+Encryption Techniques:
+	Shifts all chars by a shift int
+	Adds or subtracts char key based off value
+	turns 3 chars into one color
+	uses very similar looking colors
+	*Shows the status of program in console/ terminal/ command prompt
+—————————————————————————————————————————————————————————————————————————————
+
+How To Open:
+	1) Run the “Main.java” file, command line: ‘java Main’
+
+—————————————————————————————————————————————————————————————————————————————
+
+How To Encode:
+	1) Enter a message into the text area
+
+	2) Press the “Encode” button
+
+	3) Enter a file name to save the image as
+		Note: Do not add a file extension
+	
+	4) Your encoded image is saved in the EncryptedImages file
+—————————————————————————————————————————————————————————————————————————————
+
+How To Decode:
+	1) Press the “Decode” button
+	
+	2) Find the encoded .png file you wish to decode
+
+	3) The decrypted message will appear in the status area
+
+—————————————————————————————————————————————————————————————————————————————
